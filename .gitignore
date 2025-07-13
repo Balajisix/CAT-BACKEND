@@ -1,0 +1,50 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Flask cache and logs
+instance/
+*.log
+
+# Environment variable files
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Database files (if any local SQLite testing)
+*.sqlite3
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Migrations (optional, if using Flask-Migrate)
+yolov8x.pt
+license_plate_detector.pt
+uploads/
+yolov8x-model/

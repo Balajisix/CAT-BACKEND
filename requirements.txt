@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-Bcrypt
+Flask-SQLAlchemy
+flask_migrate
+psycopg2-binary
+python-dotenv
+torch
+ultralytics
