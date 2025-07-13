@@ -7,5 +7,4 @@ psycopg2-binary
 python-dotenv
 torch
 ultralytics
-tensorflow
 huggingface-hub
