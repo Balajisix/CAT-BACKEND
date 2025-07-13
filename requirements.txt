@@ -3,6 +3,7 @@ Flask-Cors
 Flask-Bcrypt
 Flask-SQLAlchemy
 flask_migrate
+Flask-Session
 psycopg2-binary
 python-dotenv
 torch
